@@ -1,0 +1,23 @@
+.navbar {
+  width: 300px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.navelem {
+  background-color: grey;
+  color: white;
+  padding: 16px;
+}
+
+.active_elem {
+  color: white;
+  background-color: green;
+  padding: 16px;
+}
+
+.navelem:hover {
+  color: white;
+  background-color: black;
+}
+

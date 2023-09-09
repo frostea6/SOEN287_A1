@@ -1,0 +1,28 @@
+#first{
+  padding: 5px;
+  margin: 50px;
+  border-style: dotted;
+  border-color: green;
+  border-width: 2px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  position: relative ;
+  margin-bottom: -100px;
+}
+
+#second{
+  padding: 5px;
+  border-style: dotted;
+  border-color:orange;
+  border-width: 2px;
+  margin: 50px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  position: relative;
+
+}
+.red{
+  color: red;
+}
